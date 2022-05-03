@@ -5,7 +5,7 @@ import PackageDescription
 
 let package = Package(
     name: "iOS-Mobile-SDK-SP",
-    platforms: [.iOS(.v15_2)],
+    platforms: [.iOS(.v15)],
     products: [
         .library(
             name: "iOSMobileSDK",
